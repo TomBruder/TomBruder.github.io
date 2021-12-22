@@ -1,5 +1,5 @@
 # Projects
-`simpleMathTraining` - [a web tool to train mental math](file:///C:/Users/tombr/Desktop/Projects/simpleMathTraining/index.html) (coming soon, maybe)
+`simpleMathTraining` - [a web tool to train mental math](file:///C:/Users/tombr/Desktop/Projects/simpleMathTraining/index.html)
 
 ## Lorem ipsum 
 dolor sit amet, consectetur adipiscing elit. Sed nec convallis felis. Aenean scelerisque, nibh sit amet fermentum porttitor, diam purus vulputate ante, mattis gravida ## ### dolor eros quis sapien. 
